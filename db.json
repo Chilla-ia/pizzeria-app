@@ -1,0 +1,66 @@
+{
+  "pizzas": [
+    {
+      "id": 1,
+      "name": "Reine",
+      "ingredients": ["Olives", "Tomates", "Champignons"],
+      "imageUrl": "https://picsum.photos/350",
+      "price": 8.99
+    },
+    {
+      "id": 2,
+      "name": "Margherita",
+      "ingredients": [
+        "Olives",
+        "Tomates",
+        "Champignons",
+        "Champignons",
+        "Champignons"
+      ],
+      "imageUrl": "https://picsum.photos/350",
+      "price": 7.99
+    },
+    {
+      "id": 3,
+      "name": "Savoyarde",
+      "ingredients": ["Olives", "Tomates", "Champignons"],
+      "imageUrl": "https://picsum.photos/350",
+      "price": 12.99
+    },
+    {
+      "id": 4,
+      "name": "Norvégienne",
+      "ingredients": ["Olives", "Tomates", "Champignons"],
+      "imageUrl": "https://picsum.photos/350",
+      "price": 17.99
+    },
+    {
+      "id": 5,
+      "name": "Calzone",
+      "ingredients": ["Olives", "Tomates", "Champignons"],
+      "imageUrl": "https://picsum.photos/350",
+      "price": 10.99
+    },
+    {
+      "id": 6,
+      "name": "Reine",
+      "ingredients": ["Olives", "Tomates", "Champignons"],
+      "imageUrl": "https://picsum.photos/350",
+      "price": 8.99
+    },
+    {
+      "id": 7,
+      "name": "Reine",
+      "ingredients": ["Olives", "Tomates", "Champignons"],
+      "imageUrl": "https://picsum.photos/350",
+      "price": 8.99
+    },
+    {
+      "id": 8,
+      "name": "Reine",
+      "ingredients": ["Olives", "Tomates", "Champignons"],
+      "imageUrl": "https://picsum.photos/350",
+      "price": 8.99
+    }
+  ]
+}
